@@ -1,10 +1,5 @@
 <h3 align="center">A developer from India</h3>
 
-- 🔭 I’m currently working on **Fullstck Node App**
-
-- 🌱 I’m currently learning **Node**
-
-- 👯 I’m looking to collaborate on **any open source project**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
