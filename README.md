@@ -1,9 +1,7 @@
 ### Hi there I'm Kanika<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I write code, break it, fix it… and repeat. :rofl:
 
-
-
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/kanikanaik/kanikanaik/blob/main/coding-typing.gif" width="408" height="500" />
 
 - 👩‍🎓 I'm a **Software Developer / Computer Science Student**
 - 🔭 I’m currently working on **Codly**  
@@ -12,9 +10,10 @@ This is the place where I write code, break it, fix it… and repeat. :rofl:
 - 🌱 I’m currently learning:
   - Data Structures & Algorithms on [LeetCode](https://leetcode.com/u/kanikanaik/)
   - Backend, DevOps and Cloud tools
-- 👯 Open to collaborating on **open source, hackathons, and interesting side projects**
+- 👯 Open to collaborating on **open source, hackathons,
+-  and interesting side projects**
 - 📬 How to reach me: **[kanikalnaik@gmail.com](mailto:kanikalnaik@gmail.com)**
-- 📝 [Resume](https://your-resume-link.com)
+- 📝 [Resume](https://github.com/kanikanaik/kanikanaik/blob/main/Kanika-Naik-FlowCV-Resume-20251204.pdf)
 - 💪 This is where I write, code and solve problems:
 <p align="left"> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/kanikanaik/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /> </a> <!-- Instagram --> <a href="https://instagram.com/your-instagram-username" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /> </a> <!-- GitHub --> <a href="https://github.com/kanikanaik" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /> </a> <!-- LeetCode --> <a href="https://leetcode.com/u/kanikanaik/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /> </a> <!-- Email --> <a href="mailto:kanikalnaik@gmail.com"> <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="40" /> </a> </p>
 ---
