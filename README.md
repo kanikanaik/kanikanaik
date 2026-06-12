@@ -5,7 +5,6 @@ This is the place where I write code, break it, fix it… and repeat. :rofl:
 
 - 👩‍🎓 I'm a **Software Developer / Computer Science Student**
 - 🔭 I’m currently working on **Codly**  
-- 👩‍🏫 I love **sharing knowledge** and helping beginners get started
 - 💬 Ask me about **Web Dev, JavaScript, DevOps, or Cloud**
 - 🌱 I’m currently learning:
   - Data Structures & Algorithms on [LeetCode](https://leetcode.com/u/kanikanaik/)
